@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "year": "1846",
+    "work": "short story",
+    "type": "fiction",
+    "categories": [
+      "American", "classics", "horror"
+    ]
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": "1884",
+    "work": "novel",
+    "type": "fiction",
+    "categories": [
+      "American","classics", "adventure"
+    ]
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "year": "1906",
+    "work": "novel",
+    "type": "fiction",
+    "categories": [
+      "American","classics", "adventure"
+    ]
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Sir Arthur Conan Doyle",
+    "year": "1902",
+    "work": "novel",
+    "type": "fiction",
+    "categories": [
+      "British","classics", "mystery", "crime"
+    ]
+  }
+]
