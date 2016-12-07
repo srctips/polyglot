@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>The Cask of Amontillado</title>
+    <author>Edgar Allan Poe</author>
+    <isbn>1539605787</isbn>
+    <categories>
+      <category>classics</category>
+      <category>fiction</category>
+      <category>horror</category>
+    </categories>
+  </book>
+  <book>
+    <title>The Adventures of Huckleberry Finn</title>
+    <author>Mark Twain</author>
+    <isbn>099658482X</isbn>
+    <categories>
+      <category>classics</category>
+      <category>fiction</category>
+      <category>adventure</category>
+    </categories>
+  </book>
+  <book>
+    <title>White Fang</title>
+    <author>Jack London</author>
+    <isbn>1505313104</isbn>
+    <categories>
+      <category>classics</category>
+      <category>fiction</category>
+      <category>adventure</category>
+    </categories>
+  </book>
+  <book>
+    <title>The Hound of the Baskervilles</title>
+    <author>Sir Arthur Conan Doyle</author>
+    <isbn>1503312755</isbn>
+    <categories>
+      <category>classics</category>
+      <category>fiction</category>
+      <category>mystery</category>
+    </categories>
+  </book>
+</books>
