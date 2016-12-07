@@ -3,41 +3,50 @@
   <book>
     <title>The Cask of Amontillado</title>
     <author>Edgar Allan Poe</author>
-    <isbn>1539605787</isbn>
+    <year>1846</yeaer>
+    <work>short story</work>
+    <type>fiction</type>
     <categories>
+      <category>American</category>
       <category>classics</category>
-      <category>fiction</category>
       <category>horror</category>
     </categories>
   </book>
   <book>
     <title>The Adventures of Huckleberry Finn</title>
     <author>Mark Twain</author>
-    <isbn>099658482X</isbn>
+    <year>1884</yeaer>
+    <work>novel</work>
+    <type>fiction</type>
     <categories>
+      <category>American</category>
       <category>classics</category>
-      <category>fiction</category>
       <category>adventure</category>
     </categories>
   </book>
   <book>
     <title>White Fang</title>
     <author>Jack London</author>
-    <isbn>1505313104</isbn>
+    <year>1906</yeaer>
+    <work>novel</work>
+    <type>fiction</type>
     <categories>
+      <category>American</category>
       <category>classics</category>
-      <category>fiction</category>
       <category>adventure</category>
     </categories>
   </book>
   <book>
     <title>The Hound of the Baskervilles</title>
     <author>Sir Arthur Conan Doyle</author>
-    <isbn>1503312755</isbn>
+    <year>1902</yeaer>
+    <work>novel</work>
+    <type>fiction</type>
     <categories>
+      <category>British</category>
       <category>classics</category>
-      <category>fiction</category>
       <category>mystery</category>
+      <category>crime</category>
     </categories>
   </book>
 </books>
