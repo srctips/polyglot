@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: rgb(255,255,0);
+}
+
+p {
+    font-family: arial;
+    font-size: 1.2em;
+}
+
+p.alert {
+  color: red;
+}
+
+.hide {
+  display: none;
+}
